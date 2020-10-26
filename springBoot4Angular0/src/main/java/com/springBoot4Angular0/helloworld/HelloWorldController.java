@@ -1,4 +1,4 @@
-package com.springBoot4Angular0;
+package com.springBoot4Angular0.helloworld;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.springBoot4Angular0;
+package com.springBoot4Angular0.helloworld;
 
 public class HelloWorldBean {
 	
